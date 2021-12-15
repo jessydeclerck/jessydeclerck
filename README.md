@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jessydeclerck)](https://github.com/jessydeclerck/github-contribution-stats/)
 
 <!--
 **jessydeclerck/jessydeclerck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
